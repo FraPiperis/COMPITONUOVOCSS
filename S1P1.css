@@ -1,0 +1,36 @@
+/* 1 */ 
+.jumbotron h1{
+    color: rgb(0, 0, 128);
+}
+/* 2 */ 
+.nav > span {
+    color: rgb(130, 0, 0);
+}
+/* 3 */ 
+.jumbotron a {
+    color: rgb(0, 117, 21);
+}
+/* 4 */ 
+.blog-post:first-of-type{
+    background-color:  rgb(221, 255, 141);
+}
+/* 5 */ 
+.blog-post:first-of-type hr {
+    background-color:  rgb(255, 4, 4);
+}
+/* 6 */ 
+.nav span:nth-child(2n){
+    background-color:  rgb(158, 136, 255);
+}
+/* 7 --------- QUESTO DA CHIEDERE VENERDI */ 
+.font-italic + .list-unstyled {
+    background-color:  rgb(33, 0, 181);
+}
+/* 8 ------ CHIEDERE VENERDI */
+.blog-post .blog-post-meta:nth-child(2) a{
+    background-color:  rgb(242, 234, 9);
+}
+/* 9 */
+/* 10 */
+/* 11 */
+/* 12 */
