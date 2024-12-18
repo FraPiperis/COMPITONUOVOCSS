@@ -30,7 +30,10 @@
 .blog-post .blog-post-meta:nth-child(2) a{
     background-color:  rgb(242, 234, 9);
 }
-/* 9 */
+/* 9 ------ DA CONTINUARE/RIVEDERE DOMANI */
+.row .blog-post:nth-child(3) ul li:nth-child(2) {
+    background-color:  rgb(9, 9, 242);
+}
 /* 10 */
 /* 11 */
 /* 12 */
