@@ -22,17 +22,17 @@
 .nav span:nth-child(2n){
     background-color:  rgb(158, 136, 255);
 }
-/* 7 --------- QUESTO DA CHIEDERE VENERDI */ 
-.font-italic + .list-unstyled {
-    background-color:  rgb(33, 0, 181);
+/* 7 */ 
+.col-md-4 .p-4:nth-child(2) li{
+    background-color:rgb(247, 200, 125);
 }
-/* 8 ------ CHIEDERE VENERDI */
-.blog-post .blog-post-meta:nth-child(2) a{
+/* 8 */
+.col-md-8 .blog-post:nth-child(2) .blog-post-meta a{
     background-color:  rgb(242, 234, 9);
 }
-/* 9 ------ DA CONTINUARE/RIVEDERE DOMANI */
-.row .blog-post:nth-child(3) ul li:nth-child(2) {
-    background-color:  rgb(9, 9, 242);
+/* 9 */
+.row .blog-post ul li:nth-child(2) {
+    color: brown; 
 }
 /* 10 */
 .float-right{
@@ -41,8 +41,8 @@
 }
 
 /* 11 DA RIVEDERE */
-.blog-pagination:nth-child(2):hover {
-    background-color:  rgb(242, 122, 9);
+.blog-pagination a:nth-child(2){
+    background-color:  rgb(21, 15, 10);
 }
 /* 12 */
 .text-center a:nth-child(2){
