@@ -35,5 +35,16 @@
     background-color:  rgb(9, 9, 242);
 }
 /* 10 */
-/* 11 */
+.float-right{
+    background-color:  rgb(242, 203, 9);
+    color: rgb(203, 61, 0);
+}
+
+/* 11 DA RIVEDERE */
+.blog-pagination:nth-child(2):hover {
+    background-color:  rgb(242, 122, 9);
+}
 /* 12 */
+.text-center a:nth-child(2){
+    color: red;
+}
